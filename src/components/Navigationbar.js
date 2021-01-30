@@ -57,14 +57,14 @@ export default class Navigationbar extends React.Component {
               <Nav className="mr-auto" navbar>
                 <UncontrolledDropdown nav inNavbar>
                   <DropdownToggle nav caret>
-                    Chris
+                    First Step English
                   </DropdownToggle>
                   <DropdownMenu >
                     <DropdownItem>
-                      My Account
+                      Our Directors
                     </DropdownItem>
                     <DropdownItem>
-                      Page Settings
+                      Our Courses
                     </DropdownItem>
                     <DropdownItem divider />
                     <DropdownItem>
