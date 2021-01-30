@@ -14,7 +14,7 @@ import {
     Button
 } from 'reactstrap';
 
-class Jumbotron extends Component {
+class Jumbotron1 extends Component {
     constructor(props) {
         super(props);
 
@@ -62,4 +62,4 @@ class Jumbotron extends Component {
     }
 }
 
-export default Jumbotron;
+export default Jumbotron1;
