@@ -75,7 +75,9 @@ const MyNavbar = (props) => {
             <NavLink href="#">Blog</NavLink>
           </NavItem>
           </Nav>
-          <NavbarText>Simple Text</NavbarText>
+          <form class="d-flex">
+            <input class="form-control" type="search" placeholder="Search" aria-label="Search" />
+          </form>
         </Collapse>
       </Navbar>
     </div>
