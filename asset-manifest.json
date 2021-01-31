@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88159f5e.chunk.css",
+    "main.js": "/static/js/main.21c01981.chunk.js",
+    "main.js.map": "/static/js/main.21c01981.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dd9acb43.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dd9acb43.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.3849fd77.chunk.js": "/static/js/2.3849fd77.chunk.js",
+    "static/js/2.3849fd77.chunk.js.map": "/static/js/2.3849fd77.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.88159f5e.chunk.css.map": "/static/css/main.88159f5e.chunk.css.map",
+    "static/js/2.3849fd77.chunk.js.LICENSE.txt": "/static/js/2.3849fd77.chunk.js.LICENSE.txt",
+    "static/media/communication_skills.55a98079.png": "/static/media/communication_skills.55a98079.png",
+    "static/media/conceptual_thinking_2.d38f5aad.jpg": "/static/media/conceptual_thinking_2.d38f5aad.jpg",
+    "static/media/hand_writing_2.46a14bcb.jpg": "/static/media/hand_writing_2.46a14bcb.jpg",
+    "static/media/maths.b5b58dee.png": "/static/media/maths.b5b58dee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd9acb43.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3849fd77.chunk.js",
+    "static/css/main.88159f5e.chunk.css",
+    "static/js/main.21c01981.chunk.js"
+  ]
+}
