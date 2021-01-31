@@ -1,6 +1,6 @@
 {
   "homepage": "https://sowkasmartschools.github.io",
-  "name": "sss",
+  "name": "asdf",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "scss":"node-sass --output-style compressed -o src/css src/scss",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
@@ -43,5 +44,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "adf"
+  ],
+  "author": "sundar",
+  "license": "ISC"
 }

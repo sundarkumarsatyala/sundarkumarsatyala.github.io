@@ -1,6 +1,6 @@
 //Content.js
 import React from 'react';
-import './content.scss';
+import '../scss/content.css';
 const Content=() => {
   const data=(
     <div className="box">
